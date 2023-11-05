@@ -9,3 +9,6 @@ Of course you need some programs installed. These are:
 	-picom
 	-nitrogen
 	-flameshot
+The picom.conf file goes to ~/.config/picom and not xdg/autostart
+The desktop files go to /etc/xdg/autostart
+Requires lxsession on startup

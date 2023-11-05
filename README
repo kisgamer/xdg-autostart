@@ -1,0 +1,11 @@
+This is my XDG autostart directory. Started with lxsession.
+Of course you need some programs installed. These are:
+	-dunst
+	-blueman
+	-bluez
+	-nm-applet
+	-pasystray
+	-pa-notify
+	-picom
+	-nitrogen
+	-flameshot

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Dunst
+Comment=dunst
+Exec=dunst
+Icon=
+Terminal=False

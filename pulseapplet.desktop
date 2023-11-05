@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Pulseapplet
+Comment=pulseapplet
+Exec=pulseapplet
+Icon=
+Terminal=False

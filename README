@@ -1,3 +1,5 @@
+!! THIS REPO ISN'T MAINTAINED! IT HAS MOVED TO https://gitlab.com/kisgamer/xdg-autostart/ PLEASE PROCEED TO USE THE GITLAB REPO !!
+
 This is my XDG autostart directory. Started with lxsession.
 Of course you need some programs installed. These are:
 	-dunst
